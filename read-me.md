@@ -1,9 +1,9 @@
-# Foobar
+# sts-sb-rest3
 This is basic spring boot application
 
 ## Installation
 
-Use the git clone url to download project[git](https://github.com/ak-m/sts-sb-rest3.git) to install foobar.
+Use the git clone url to download project    [git](https://github.com/ak-m/sts-sb-rest3.git) to install.
 
 ```bash
 mvn clean package
